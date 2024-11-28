@@ -15018,11 +15018,23 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-11-28 17:37:35 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_prismarine_brick_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-11-28 17:27:23 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2024-11-28 17:37:18 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
@@ -15168,6 +15180,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2024-11-28 17:30:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/prismarine_plate_stairs_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-11-28 17:27:23 +0000"
@@ -15207,6 +15225,12 @@
   "aether:recipes/misc/aether_iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_gloves": "2024-11-28 17:24:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2024-11-28 17:29:56 +0000"
     },
     "done": true
   },
