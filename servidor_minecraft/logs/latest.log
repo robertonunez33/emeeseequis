@@ -4624,3 +4624,8 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [28Nov2024 16:33:53.424] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6157ms or 123 ticks behind
 [28Nov2024 16:38:22.663] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [28Nov2024 16:38:22.664] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 16:43:22.614] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 16:43:22.614] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 16:48:22.613] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 16:48:22.613] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 16:50:22.932] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Ryann'/853, l='ServerLevel[world]', x=-415.50, y=86.00, z=-712.26] died: Ryann was slain by Territoon
