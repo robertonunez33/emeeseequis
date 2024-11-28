@@ -4647,3 +4647,9 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [28Nov2024 20:50:40.611] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [28Nov2024 20:50:40.612] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [28Nov2024 20:51:42.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mr_edius has made the advancement [Who You Gonna Call?]
+[28Nov2024 20:55:40.611] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 20:55:40.612] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 20:56:27.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mr_edius fell from a high place
+[28Nov2024 21:00:40.610] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 21:00:40.610] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 21:01:36.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mr_edius hit the ground too hard

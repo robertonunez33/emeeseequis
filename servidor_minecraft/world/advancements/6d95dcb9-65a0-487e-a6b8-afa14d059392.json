@@ -14137,5 +14137,17 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-11-28 20:51:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/ghost_sword": {
+    "criteria": {
+      "has_item": "2024-11-28 20:51:46 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
