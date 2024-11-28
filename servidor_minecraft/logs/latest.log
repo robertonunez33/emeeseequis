@@ -4641,3 +4641,9 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [28Nov2024 20:40:40.621] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [28Nov2024 20:40:49.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mr_edius: Teleported mr_edius to 300.500000, 69.500000, -1079.500000]
 [28Nov2024 20:40:53.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mr_edius: Set own game mode to Survival Mode]
+[28Nov2024 20:44:53.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mr_edius hit the ground too hard
+[28Nov2024 20:45:40.629] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 20:45:40.630] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 20:50:40.611] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 20:50:40.612] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 20:51:42.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mr_edius has made the advancement [Who You Gonna Call?]
