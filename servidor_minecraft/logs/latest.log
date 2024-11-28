@@ -4629,3 +4629,11 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [28Nov2024 16:48:22.613] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [28Nov2024 16:48:22.613] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [28Nov2024 16:50:22.932] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Ryann'/853, l='ServerLevel[world]', x=-415.50, y=86.00, z=-712.26] died: Ryann was slain by Territoon
+[28Nov2024 16:53:00.943] [Worker-Main-37/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[28Nov2024 16:53:01.331] [Worker-Main-37/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 388ms
+[28Nov2024 16:53:22.610] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 16:53:22.610] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 16:58:22.603] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 16:58:22.604] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 16:59:54.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was slain by Zombie Bruiser
+[28Nov2024 17:00:20.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon has made the advancement [Dark Metallurgy]
