@@ -4702,3 +4702,9 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [28Nov2024 18:53:47.454] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [28Nov2024 18:58:47.453] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [28Nov2024 18:58:47.453] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 19:03:47.457] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 19:03:47.457] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 19:06:43.759] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3692ms or 73 ticks behind
+[28Nov2024 19:08:51.107] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 19:08:51.108] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 19:11:11.276] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Cierra'/28455, l='ServerLevel[world]', x=-445.10, y=80.50, z=-736.46] died: Cierra was blasted away by Territoon
