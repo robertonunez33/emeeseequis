@@ -4637,3 +4637,9 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [28Nov2024 16:58:22.604] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [28Nov2024 16:59:54.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was slain by Zombie Bruiser
 [28Nov2024 17:00:20.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon has made the advancement [Dark Metallurgy]
+[28Nov2024 17:01:36.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[28Nov2024 17:01:36.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cc<--[HERE]
+[28Nov2024 17:03:22.609] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 17:03:22.609] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 17:08:22.637] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 17:08:22.638] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
