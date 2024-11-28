@@ -4708,3 +4708,10 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [28Nov2024 19:08:51.107] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [28Nov2024 19:08:51.108] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [28Nov2024 19:11:11.276] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Cierra'/28455, l='ServerLevel[world]', x=-445.10, y=80.50, z=-736.46] died: Cierra was blasted away by Territoon
+[28Nov2024 19:13:51.104] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 19:13:51.104] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 19:17:11.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon fell from a high place
+[28Nov2024 19:18:51.102] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 19:18:51.102] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 19:19:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon hit the ground too hard
+[28Nov2024 19:22:01.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3878ms or 77 ticks behind
