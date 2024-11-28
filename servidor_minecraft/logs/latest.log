@@ -4715,3 +4715,7 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [28Nov2024 19:18:51.102] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [28Nov2024 19:19:22.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon hit the ground too hard
 [28Nov2024 19:22:01.745] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3878ms or 77 ticks behind
+[28Nov2024 19:23:54.956] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 19:23:54.957] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[28Nov2024 19:28:54.957] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[28Nov2024 19:28:54.958] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.

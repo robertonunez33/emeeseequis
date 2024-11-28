@@ -15313,6 +15313,12 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.palettes/polished_cut_stone_wall": {
+    "criteria": {
+      "has_polished_cut_stone": "2024-11-28 19:25:18 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
     "criteria": {
       "has_block.minecraft.obsidian": "2024-11-28 17:15:43 +0000"
@@ -15334,6 +15340,12 @@
   "stoneworks:recipes/building_blocks/polished_prismarine_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-11-28 17:27:23 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_stone_stairs": {
+    "criteria": {
+      "has_polished_cut_stone": "2024-11-28 19:25:18 +0000"
     },
     "done": true
   },
@@ -15466,6 +15478,12 @@
   "stoneworks:recipes/building_blocks/mossy_prismarine_bricks_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-11-28 17:27:23 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.palettes/polished_cut_stone_slab": {
+    "criteria": {
+      "has_polished_cut_stone": "2024-11-28 19:25:18 +0000"
     },
     "done": true
   },
