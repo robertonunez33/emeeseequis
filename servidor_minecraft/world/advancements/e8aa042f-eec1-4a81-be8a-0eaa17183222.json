@@ -15157,6 +15157,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/maple_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-11-28 18:44:33 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/prismarine_tile_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-11-28 17:27:23 +0000"
@@ -15292,6 +15298,12 @@
   "stoneworks:recipes/building_blocks/prismarine_pillar_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2024-11-28 17:27:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/stripped_maple_wood": {
+    "criteria": {
+      "has_log": "2024-11-28 18:44:33 +0000"
     },
     "done": true
   },
