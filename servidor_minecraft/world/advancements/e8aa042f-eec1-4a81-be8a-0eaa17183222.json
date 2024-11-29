@@ -2103,6 +2103,7 @@
       "spider_nest": "2024-11-23 19:40:53 +0000",
       "redwood_forest": "2024-11-24 16:31:50 +0000",
       "aspen_glade": "2024-11-23 18:38:27 +0000",
+      "dune_beach": "2024-11-29 22:45:59 +0000",
       "seasonal_forest": "2024-11-15 22:44:48 +0000",
       "fir_clearing": "2024-11-24 15:28:00 +0000",
       "pumpkin_patch": "2024-11-23 18:39:19 +0000",
@@ -15833,6 +15834,12 @@
   "another_furniture:recipes/pink_tall_stool": {
     "criteria": {
       "has_wool": "2024-11-29 22:33:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2024-11-29 22:51:35 +0000"
     },
     "done": true
   },
