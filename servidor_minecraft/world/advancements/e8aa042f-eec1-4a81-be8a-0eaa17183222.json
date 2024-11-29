@@ -4927,6 +4927,7 @@
     "criteria": {
       "baked_potato": "2024-11-23 17:42:01 +0000",
       "apple": "2024-11-24 17:34:10 +0000",
+      "bread": "2024-11-29 17:24:03 +0000",
       "rotten_flesh": "2024-11-29 15:37:36 +0000",
       "melon_slice": "2024-11-23 19:28:17 +0000",
       "cooked_chicken": "2024-11-24 16:16:30 +0000",
@@ -13319,7 +13320,8 @@
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "oak_tree_1": "2024-11-24 17:17:25 +0000",
-      "birch_house_small_2": "2024-11-24 17:27:01 +0000"
+      "birch_house_small_2": "2024-11-24 17:27:01 +0000",
+      "spruce_house_small_1": "2024-11-29 17:23:36 +0000"
     },
     "done": false
   },
