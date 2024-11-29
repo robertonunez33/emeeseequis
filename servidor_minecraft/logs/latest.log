@@ -4688,3 +4688,18 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [29Nov2024 16:44:56.530] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [29Nov2024 16:49:56.529] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [29Nov2024 16:49:56.530] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 16:54:42.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Nov2024 16:54:42.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CC<--[HERE]
+[29Nov2024 16:54:56.530] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 16:54:56.530] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 16:58:42.754] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9503, l='ServerLevel[world]', x=-383.10, y=3.46, z=-778.75, removed=DISCARDED]
+[29Nov2024 16:58:55.900] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9503, l='ServerLevel[world]', x=-383.10, y=3.46, z=-778.75, removed=DISCARDED]
+[29Nov2024 16:58:57.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon fell from a high place
+[29Nov2024 16:58:58.634] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9503, l='ServerLevel[world]', x=-383.10, y=3.46, z=-778.75, removed=DISCARDED]
+[29Nov2024 16:59:13.696] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9503, l='ServerLevel[world]', x=-383.10, y=3.46, z=-778.75, removed=DISCARDED]
+[29Nov2024 16:59:56.537] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 16:59:56.538] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 17:00:12.646] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9503, l='ServerLevel[world]', x=-383.10, y=3.46, z=-778.75, removed=DISCARDED]
+[29Nov2024 17:00:35.038] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9503, l='ServerLevel[world]', x=-383.10, y=3.46, z=-778.75, removed=DISCARDED]
+[29Nov2024 17:00:39.946] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9503, l='ServerLevel[world]', x=-383.10, y=3.46, z=-778.75, removed=DISCARDED]
+[29Nov2024 17:02:48.338] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity VampbiterEntity['Vampire Biter'/9503, l='ServerLevel[world]', x=-383.10, y=3.46, z=-778.75, removed=DISCARDED]
