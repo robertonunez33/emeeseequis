@@ -4752,3 +4752,9 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [29Nov2024 23:13:22.411] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [29Nov2024 23:13:57.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon has reached the goal [Horror of the Depths]
 [29Nov2024 23:15:03.387] [Worker-Main-50/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[29Nov2024 23:18:22.342] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 23:18:22.343] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 23:19:09.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2759ms or 55 ticks behind
+[29Nov2024 23:23:25.095] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 23:23:25.095] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 23:26:44.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon has made the advancement [Bypassing the Expiration Date]
