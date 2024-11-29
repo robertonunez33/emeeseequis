@@ -4648,3 +4648,10 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [29Nov2024 15:34:52.953] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [29Nov2024 15:34:52.955] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [29Nov2024 15:35:59.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon has made the advancement [Best Friends Forever]
+[29Nov2024 15:39:52.977] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 15:39:52.977] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 15:44:29.692] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
+[29Nov2024 15:44:30.212] [Worker-Main-3/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 520ms
+[29Nov2024 15:44:45.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon has made the advancement [Alligator In Name Only]
+[29Nov2024 15:44:53.000] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 15:44:53.001] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
