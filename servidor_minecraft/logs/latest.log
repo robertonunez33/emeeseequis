@@ -4776,3 +4776,34 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [29Nov2024 23:43:25.092] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [29Nov2024 23:43:59.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was shot by Stray
 [29Nov2024 23:46:30.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was shot by Bonescaller
+[29Nov2024 23:48:06.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Nov2024 23:48:06.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cc<--[HERE]
+[29Nov2024 23:48:07.389] [User Authenticator #4/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player LordFurius072 is 3c311ea8-ae60-4e11-a694-33a09cf948bc
+[29Nov2024 23:48:17.363] [Server thread/INFO] [owo/]: [Handshake] Sending channel query
+[29Nov2024 23:48:17.416] [Netty Epoll Server IO #5/INFO] [owo/]: [Handshake] Receiving client channels
+[29Nov2024 23:48:17.416] [Netty Epoll Server IO #5/INFO] [owo/]: [Handshake] Handshake completed successfully
+[29Nov2024 23:48:17.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordFurius072[/127.25.94.227:40245] logged in with entity id 42022 at (291.21978442999824, 54.0, -711.9518785677334)
+[29Nov2024 23:48:17.563] [Server thread/INFO] [owo/]: Sending server config values to client
+[29Nov2024 23:48:17.593] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to LordFurius072
+[29Nov2024 23:48:17.594] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to LordFurius072
+[29Nov2024 23:48:17.594] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to LordFurius072
+[29Nov2024 23:48:17.595] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to LordFurius072
+[29Nov2024 23:48:17.597] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to LordFurius072
+[29Nov2024 23:48:17.599] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to LordFurius072
+[29Nov2024 23:48:17.600] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to LordFurius072
+[29Nov2024 23:48:17.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordFurius072 joined the game
+[29Nov2024 23:48:17.734] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3c311ea8-ae60-4e11-a694-33a09cf948bc
+[29Nov2024 23:48:17.759] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordFurius072
+[29Nov2024 23:48:17.778] [Server thread/INFO] [Jade/]: Syncing config to LordFurius072 (3c311ea8-ae60-4e11-a694-33a09cf948bc)
+[29Nov2024 23:48:18.842] [Netty Epoll Server IO #5/INFO] [owo/]: Receiving client config
+[29Nov2024 23:48:18.907] [Server thread/INFO] [ping-wheel/]: Channel update: LordFurius072 -> default
+[29Nov2024 23:48:18.989] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[29Nov2024 23:48:25.120] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 23:48:25.120] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 23:49:04.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was shot by Supreme Bonescaller
+[29Nov2024 23:50:22.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was slain by Bone Imp
+[29Nov2024 23:51:09.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was blown up by Spruce Creeper
+[29Nov2024 23:53:25.113] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 23:53:25.113] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 23:54:14.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was slain by Bone Imp
+[29Nov2024 23:56:00.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was shot by Supreme Bonescaller
