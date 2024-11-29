@@ -4758,3 +4758,13 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [29Nov2024 23:23:25.095] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [29Nov2024 23:23:25.095] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [29Nov2024 23:26:44.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon has made the advancement [Bypassing the Expiration Date]
+[29Nov2024 23:28:25.095] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 23:28:25.096] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 23:30:35.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was slain by Cave Spider
+[29Nov2024 23:32:36.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was shot by Stray
+[29Nov2024 23:33:25.093] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 23:33:25.093] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 23:34:07.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was shot by Stray
+[29Nov2024 23:35:10.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was shot by Stray
+[29Nov2024 23:35:47.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was shot by Stray
+[29Nov2024 23:36:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was slain by Vex

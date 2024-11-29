@@ -5502,6 +5502,7 @@
       "minecraft:cave_spider": "2024-11-23 19:41:27 +0000",
       "minecraft:silverfish": "2024-11-24 15:39:45 +0000",
       "minecraft:enderman": "2024-11-29 16:06:00 +0000",
+      "minecraft:stray": "2024-11-29 23:33:19 +0000",
       "minecraft:vex": "2024-11-24 17:46:39 +0000",
       "minecraft:zombie": "2024-11-23 18:49:44 +0000",
       "minecraft:zombie_villager": "2024-11-23 19:12:14 +0000"
@@ -16111,6 +16112,12 @@
   "twigs:recipes/tuff/polished_tuff_bricks_from_bloodstone_stonecutting": {
     "criteria": {
       "has_item": "2024-11-29 23:01:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2024-11-29 23:26:44 +0000"
     },
     "done": true
   },
