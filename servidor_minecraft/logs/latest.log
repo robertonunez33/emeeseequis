@@ -4648,3 +4648,8 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [29Nov2024 21:32:43.861] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [29Nov2024 21:34:05.691] [Worker-Main-15/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Starting feature recycler...
 [29Nov2024 21:34:05.997] [Worker-Main-15/INFO] [dev.corgitaco.featurerecycler.FeatureRecycler/]: Finished recycling features. Took 306ms
+[29Nov2024 21:37:25.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon fell from a high place
+[29Nov2024 21:37:43.838] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 21:37:43.839] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 21:42:43.798] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 21:42:43.798] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
