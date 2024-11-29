@@ -5496,6 +5496,7 @@
       "minecraft:witch": "2024-11-23 19:32:58 +0000",
       "minecraft:cave_spider": "2024-11-23 19:41:27 +0000",
       "minecraft:silverfish": "2024-11-24 15:39:45 +0000",
+      "minecraft:enderman": "2024-11-29 16:06:00 +0000",
       "minecraft:vex": "2024-11-24 17:46:39 +0000",
       "minecraft:zombie": "2024-11-23 18:49:44 +0000",
       "minecraft:zombie_villager": "2024-11-23 19:12:14 +0000"
@@ -15551,6 +15552,12 @@
   "alexsmobs:alexsmobs/alligator_snapping_turtle": {
     "criteria": {
       "killed_by": "2024-11-29 15:44:45 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2024-11-29 15:57:07 +0000"
     },
     "done": true
   },
