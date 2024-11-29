@@ -4720,3 +4720,15 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [29Nov2024 22:54:06.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon burned to death
 [29Nov2024 22:54:45.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was incinerated by Fire Dragon
 [29Nov2024 22:55:50.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon burned to death
+[29Nov2024 22:56:18.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was burnt to a crisp whilst fighting Fire Dragon
+[29Nov2024 22:57:18.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was burnt to a crisp whilst fighting Fire Dragon
+[29Nov2024 22:58:01.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon burned to death
+[29Nov2024 22:58:19.554] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 22:58:19.554] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 23:02:15.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was slain by Fire Dragon
+[29Nov2024 23:03:05.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was doomed to fall
+[29Nov2024 23:03:19.548] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 23:03:19.548] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 23:04:56.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon burned to death
+[29Nov2024 23:05:24.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[29Nov2024 23:05:24.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cc<--[HERE]
