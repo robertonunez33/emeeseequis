@@ -4925,6 +4925,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2024-11-29 22:14:23 +0000",
       "baked_potato": "2024-11-23 17:42:01 +0000",
       "apple": "2024-11-24 17:34:10 +0000",
       "bread": "2024-11-29 17:24:03 +0000",
@@ -15560,6 +15561,18 @@
   "illagerinvasion:recipes/misc/platinum_sheet": {
     "criteria": {
       "has_platinum_chunk": "2024-11-29 15:57:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
+    "criteria": {
+      "has_glowflower": "2024-11-29 22:21:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/flint_and_steel_repairing": {
+    "criteria": {
+      "has_flint_and_steel": "2024-11-29 22:19:45 +0000"
     },
     "done": true
   },
