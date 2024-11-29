@@ -4655,3 +4655,8 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [29Nov2024 15:44:45.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon has made the advancement [Alligator In Name Only]
 [29Nov2024 15:44:53.000] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [29Nov2024 15:44:53.001] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 15:49:52.979] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 15:49:52.979] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 15:54:52.939] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 15:54:52.940] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 15:56:23.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was impaled by Marauder
