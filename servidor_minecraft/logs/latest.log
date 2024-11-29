@@ -4732,3 +4732,23 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [29Nov2024 23:04:56.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon burned to death
 [29Nov2024 23:05:24.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [29Nov2024 23:05:24.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: cc<--[HERE]
+[29Nov2024 23:07:37.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was incinerated by Fire Dragon
+[29Nov2024 23:07:51.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was turned into KFC by Fire Dragon
+[29Nov2024 23:08:06.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was turned into KFC by Fire Dragon
+[29Nov2024 23:08:19.564] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 23:08:19.564] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 23:08:22.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was incinerated by Fire Dragon
+[29Nov2024 23:08:28.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was incinerated by Fire Dragon
+[29Nov2024 23:08:42.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon burned to death
+[29Nov2024 23:09:11.789] [pool-10-thread-2/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_swamp], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_swedish], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_sparse_jungle], ResourceKey[minecraft:worldgen/structure / blue_skies:village_calming_skies], ResourceKey[minecraft:worldgen/structure / towns_and_towers:exclusives/village_nilotic], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / towns_and_towers:village_old_growth_taiga], ResourceKey[minecraft:worldgen/structure / blue_skies:village_shaded_woodlands]] from pos BlockPos{x=-1915, y=74, z=-1813}
+[29Nov2024 23:09:12.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon burned to death
+[29Nov2024 23:09:16.494] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2838ms or 56 ticks behind
+[29Nov2024 23:09:31.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was incinerated by Fire Dragon
+[29Nov2024 23:10:02.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was incinerated by Fire Dragon
+[29Nov2024 23:10:20.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was incinerated by Fire Dragon
+[29Nov2024 23:10:34.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was incinerated by Fire Dragon
+[29Nov2024 23:11:27.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was turned into KFC by Fire Dragon
+[29Nov2024 23:13:22.410] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 23:13:22.411] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 23:13:57.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon has reached the goal [Horror of the Depths]
+[29Nov2024 23:15:03.387] [Worker-Main-50/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 

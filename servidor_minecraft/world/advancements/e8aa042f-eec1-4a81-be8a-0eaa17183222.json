@@ -13324,6 +13324,7 @@
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "oak_tree_1": "2024-11-24 17:17:25 +0000",
+      "oak_house_small_2": "2024-11-29 23:06:40 +0000",
       "birch_house_small_2": "2024-11-24 17:27:01 +0000",
       "spruce_house_small_1": "2024-11-29 17:23:36 +0000"
     },
@@ -15915,6 +15916,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/yellow_dye_from_goldenrod": {
+    "criteria": {
+      "has_goldenrod": "2024-11-29 23:08:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_tuff_brick_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-11-29 23:01:37 +0000"
@@ -15972,6 +15979,12 @@
   "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-11-29 23:01:37 +0000"
+    },
+    "done": true
+  },
+  "aether_redux:recipes/combat/veridium_dart": {
+    "criteria": {
+      "has_feather": "2024-11-29 23:11:33 +0000"
     },
     "done": true
   },
@@ -16131,6 +16144,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2024-11-29 23:06:42 +0000"
+    },
+    "done": true
+  },
   "tfmg:recipes/building_blocks/small_bauxite_brick_stairs_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-11-29 22:59:20 +0000"
@@ -16152,6 +16171,12 @@
   "stoneworks:recipes/building_blocks/tuff_tile_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-11-29 23:01:37 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2024-11-29 23:11:33 +0000"
     },
     "done": true
   },
@@ -16344,6 +16369,12 @@
   "stoneworks:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-11-29 23:01:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2024-11-29 23:11:33 +0000"
     },
     "done": true
   },
