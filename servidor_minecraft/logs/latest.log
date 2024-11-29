@@ -4768,3 +4768,11 @@ com.google.gson.JsonSyntaxException: Expected text.owo.itemGroup.tab_template to
 [29Nov2024 23:35:10.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was shot by Stray
 [29Nov2024 23:35:47.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was shot by Stray
 [29Nov2024 23:36:36.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was slain by Vex
+[29Nov2024 23:37:01.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was shot by Stray
+[29Nov2024 23:38:25.092] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 23:38:25.092] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 23:42:07.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon has made the advancement [Not Today, Thank You]
+[29Nov2024 23:43:25.091] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[29Nov2024 23:43:25.092] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[29Nov2024 23:43:59.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was shot by Stray
+[29Nov2024 23:46:30.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was shot by Bonescaller
