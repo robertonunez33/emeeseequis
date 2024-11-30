@@ -1,0 +1,16 @@
+/tailscale-cs
+/work_area*
+composer.*
+/Python*
+*.output
+/Modgest
+/thanos
+/vendor
+/bkdir
+*.txt
+*.pyc
+*.msp
+*.msx
+*.pycredentials.json
+token.pickle
+credentials.json
