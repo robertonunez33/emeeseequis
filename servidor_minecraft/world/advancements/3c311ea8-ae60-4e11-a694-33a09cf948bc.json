@@ -13132,5 +13132,23 @@
     },
     "done": true
   },
+  "twigs:recipes/rocky_dirt": {
+    "criteria": {
+      "has_item": "2024-11-30 00:18:21 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_from_pebble": {
+    "criteria": {
+      "has_item": "2024-11-30 00:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-11-30 00:20:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -21,3 +21,23 @@
 [30Nov2024 00:03:58.392] [Netty Epoll Server IO #5/INFO] [owo/]: Receiving client config
 [30Nov2024 00:04:06.475] [Server thread/INFO] [ping-wheel/]: Channel update: mr_edius -> default
 [30Nov2024 00:04:06.476] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[30Nov2024 00:07:38.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mr_edius> nig
+[30Nov2024 00:07:42.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Territoon> ger
+[30Nov2024 00:08:25.151] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 00:08:25.152] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Nov2024 00:13:00.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon has made the advancement [What a Deal!]
+[30Nov2024 00:13:25.146] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 00:13:25.146] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Nov2024 00:13:33.825] [Server thread/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER
+[30Nov2024 00:13:33.826] [Server thread/WARN] [Radium Class Analysis/]: Radium Class Analysis Error: Class net.mehvahdjukaar.supplementaries.common.block.blocks.CannonBlock cannot be analysed, because getting declared methods crashes with RuntimeException: Attempted to load class com/mojang/blaze3d/vertex/PoseStack for invalid dist DEDICATED_SERVER. This is usually caused by modded entities declaring methods that have a return type or parameter type that is annotated with @OnlyIn(Dist.CLIENT). Loading the type is not possible, because it only exists in the CLIENT environment. The recommended fix is to annotate the method with this argument or return type with the same annotation. Lithium handles this error by assuming the class cannot be included in some optimizations.
+[30Nov2024 00:17:14.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mr_edius> me silencio
+[30Nov2024 00:17:25.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mr_edius> pa que lo sepas
+[30Nov2024 00:18:16.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=359, y=68, z=-701} BlockPos{x=360, y=67, z=-700}
+[30Nov2024 00:18:16.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=359, y=68, z=-701} BlockPos{x=360, y=67, z=-700}
+[30Nov2024 00:18:25.181] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 00:18:25.182] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Nov2024 00:18:44.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=332, y=64, z=-698} BlockPos{x=333, y=63, z=-698}
+[30Nov2024 00:20:53.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=360, y=69, z=-714} BlockPos{x=362, y=69, z=-715}
+[30Nov2024 00:23:25.144] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 00:23:25.145] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Nov2024 00:24:41.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mr_edius> duerme pimpinela
