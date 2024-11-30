@@ -15863,6 +15863,12 @@
     },
     "done": true
   },
+  "delightful:recipes/knives/steel_knife": {
+    "criteria": {
+      "has_ingots/steel": "2024-11-30 01:44:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-11-29 23:01:37 +0000"
@@ -15995,6 +16001,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/steel_screw_lock": {
+    "criteria": {
+      "has_steel_ingot": "2024-11-30 01:44:08 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:pyramids": {
     "criteria": {
       "in_pyramid_ocean": "2024-11-29 23:14:02 +0000"
@@ -16022,6 +16034,12 @@
   "tfmg:recipes/building_blocks/small_bauxite_brick_slab_from_stone_types_bauxite_stonecutting": {
     "criteria": {
       "has_stone_types_bauxite": "2024-11-29 22:59:20 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/steel_scaffolding_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2024-11-30 01:44:08 +0000"
     },
     "done": true
   },
@@ -16058,6 +16076,12 @@
   "create:recipes/building_blocks/polished_cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-11-29 23:01:37 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/steel_bars_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2024-11-30 01:44:08 +0000"
     },
     "done": true
   },
@@ -16493,6 +16517,12 @@
     },
     "done": true
   },
+  "createbigcannons:recipes/misc/steel_sliding_breechblock": {
+    "criteria": {
+      "has_steel_ingot": "2024-11-30 01:44:08 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2024-11-29 23:01:37 +0000"
@@ -16520,6 +16550,12 @@
   "railways:recipes/misc/stonecutting/riveted_locometal": {
     "criteria": {
       "has_item": "2024-11-29 23:42:49 +0000"
+    },
+    "done": true
+  },
+  "tfmg:recipes/decorations/steel_ladder_from_ingots_steel_stonecutting": {
+    "criteria": {
+      "has_ingots_steel": "2024-11-30 01:44:08 +0000"
     },
     "done": true
   },

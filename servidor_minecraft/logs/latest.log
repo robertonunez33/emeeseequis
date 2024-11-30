@@ -153,3 +153,11 @@
 [30Nov2024 01:38:28.641] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [30Nov2024 01:38:28.641] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [30Nov2024 01:38:54.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dann_3476 has made the advancement [Long Gone]
+[30Nov2024 01:43:28.651] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 01:43:28.651] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Nov2024 01:46:13.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dann_3476 was squashed by a falling anvil
+[30Nov2024 01:47:48.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dann_3476 lost connection: Disconnected
+[30Nov2024 01:47:48.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dann_3476 left the game
+[30Nov2024 01:47:48.026] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d200580d-ec0f-4e51-98f6-d2f3beb53a5a
+[30Nov2024 01:48:28.614] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 01:48:28.615] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
