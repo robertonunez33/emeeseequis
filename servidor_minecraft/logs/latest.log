@@ -125,3 +125,13 @@
 [30Nov2024 00:56:48.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mr_edius was shot by Summoned Skeleton
 [30Nov2024 00:57:29.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mr_edius: Gave 1 [Glass Pane] to mr_edius]
 [30Nov2024 00:57:44.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mr_edius: Gave 1 [Glassblower] to mr_edius]
+[30Nov2024 00:58:28.667] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 00:58:28.668] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Nov2024 00:58:31.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mr_edius lost connection: Disconnected
+[30Nov2024 00:58:31.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mr_edius left the game
+[30Nov2024 00:58:31.739] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 6d95dcb9-65a0-487e-a6b8-afa14d059392
+[30Nov2024 01:03:28.651] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 01:03:28.652] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Nov2024 01:05:56.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dann_3476 drowned
+[30Nov2024 01:08:28.642] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 01:08:28.642] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.

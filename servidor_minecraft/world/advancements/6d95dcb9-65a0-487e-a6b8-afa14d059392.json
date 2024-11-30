@@ -14149,9 +14149,27 @@
     },
     "done": true
   },
+  "chipped:recipes/glassblower": {
+    "criteria": {
+      "has_glassblower": "2024-11-30 00:57:44 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/item_vault": {
     "criteria": {
       "has_item": "2024-11-30 00:35:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-11-30 00:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-11-30 00:54:56 +0000"
     },
     "done": true
   },
