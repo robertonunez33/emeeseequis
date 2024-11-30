@@ -41,3 +41,36 @@
 [30Nov2024 00:23:25.144] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
 [30Nov2024 00:23:25.145] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
 [30Nov2024 00:24:41.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mr_edius> duerme pimpinela
+[30Nov2024 00:28:17.269] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3513ms or 70 ticks behind
+[30Nov2024 00:28:29.135] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 00:28:29.135] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Nov2024 00:30:09.114] [User Authenticator #6/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dann_3476 is d200580d-ec0f-4e51-98f6-d2f3beb53a5a
+[30Nov2024 00:30:19.120] [Server thread/INFO] [owo/]: [Handshake] Sending channel query
+[30Nov2024 00:30:19.260] [Netty Epoll Server IO #0/INFO] [owo/]: [Handshake] Receiving client channels
+[30Nov2024 00:30:19.261] [Netty Epoll Server IO #0/INFO] [owo/]: [Handshake] Handshake completed successfully
+[30Nov2024 00:30:19.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dann_3476[/127.8.188.65:36327] logged in with entity id 60374 at (-552.1629675863409, 63.0, -1479.2693242102055)
+[30Nov2024 00:30:19.313] [Server thread/INFO] [owo/]: Sending server config values to client
+[30Nov2024 00:30:19.333] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Dann_3476
+[30Nov2024 00:30:19.333] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Dann_3476
+[30Nov2024 00:30:19.333] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Dann_3476
+[30Nov2024 00:30:19.334] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Dann_3476
+[30Nov2024 00:30:19.336] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Dann_3476
+[30Nov2024 00:30:19.338] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Dann_3476
+[30Nov2024 00:30:19.338] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Dann_3476
+[30Nov2024 00:30:19.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dann_3476 joined the game
+[30Nov2024 00:30:19.389] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for d200580d-ec0f-4e51-98f6-d2f3beb53a5a
+[30Nov2024 00:30:19.402] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Dann_3476
+[30Nov2024 00:30:19.417] [Server thread/INFO] [Jade/]: Syncing config to Dann_3476 (d200580d-ec0f-4e51-98f6-d2f3beb53a5a)
+[30Nov2024 00:30:20.290] [Netty Epoll Server IO #0/INFO] [owo/]: Receiving client config
+[30Nov2024 00:30:30.186] [Server thread/INFO] [ping-wheel/]: Channel update: Dann_3476 -> default
+[30Nov2024 00:30:30.231] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[30Nov2024 00:33:28.666] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 00:33:28.666] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Nov2024 00:33:57.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=69, z=-734} BlockPos{x=309, y=67, z=-734}
+[30Nov2024 00:33:57.335] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=69, z=-734} BlockPos{x=309, y=67, z=-734}
+[30Nov2024 00:33:57.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=310, y=69, z=-735} BlockPos{x=309, y=67, z=-735}
+[30Nov2024 00:34:58.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=302, y=67, z=-730} BlockPos{x=302, y=65, z=-730}
+[30Nov2024 00:34:58.351] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=302, y=67, z=-730} BlockPos{x=302, y=65, z=-730}
+[30Nov2024 00:34:59.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=299, y=65, z=-729} BlockPos{x=298, y=64, z=-729}
+[30Nov2024 00:36:02.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kimbra'/65771, l='ServerLevel[world]', x=-458.47, y=-256.00, z=-730.78] died, message: 'Kimbra was killed'
+[30Nov2024 00:36:02.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kimbra'/65771, l='ServerLevel[world]', x=-458.47, y=-256.00, z=-730.78] died: Kimbra was killed
