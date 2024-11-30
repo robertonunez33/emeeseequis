@@ -74,3 +74,21 @@
 [30Nov2024 00:34:59.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=299, y=65, z=-729} BlockPos{x=298, y=64, z=-729}
 [30Nov2024 00:36:02.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Kimbra'/65771, l='ServerLevel[world]', x=-458.47, y=-256.00, z=-730.78] died, message: 'Kimbra was killed'
 [30Nov2024 00:36:02.612] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Kimbra'/65771, l='ServerLevel[world]', x=-458.47, y=-256.00, z=-730.78] died: Kimbra was killed
+[30Nov2024 00:38:19.608] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Olen'/68062, l='ServerLevel[world]', x=-458.47, y=-256.00, z=-730.78] died, message: 'Olen was killed'
+[30Nov2024 00:38:19.608] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Olen'/68062, l='ServerLevel[world]', x=-458.47, y=-256.00, z=-730.78] died: Olen was killed
+[30Nov2024 00:38:28.692] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 00:38:28.692] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Nov2024 00:40:12.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <mr_edius> ban Dann:3476
+[30Nov2024 00:40:59.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was slain by Direwolf
+[30Nov2024 00:43:28.662] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 00:43:28.663] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Nov2024 00:44:29.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dann_3476 tried to swim in lava
+[30Nov2024 00:44:38.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon was shot by Bonescaller
+[30Nov2024 00:44:43.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Territoon has made the advancement [Junior Summoner]
+[30Nov2024 00:45:09.581] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LordFurius072 lost connection: Disconnected
+[30Nov2024 00:45:09.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordFurius072 left the game
+[30Nov2024 00:45:09.582] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3c311ea8-ae60-4e11-a694-33a09cf948bc
+[30Nov2024 00:45:12.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dann_3476 has made the advancement [Hunt and Gather]
+[30Nov2024 00:45:40.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mr_edius: Gave 5 [Torch] to mr_edius]
+[30Nov2024 00:46:41.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dann_3476 fell from a high place
+[30Nov2024 00:47:15.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mr_edius fell off scaffolding

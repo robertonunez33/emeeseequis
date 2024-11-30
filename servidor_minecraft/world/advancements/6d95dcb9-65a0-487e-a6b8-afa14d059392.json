@@ -14149,5 +14149,29 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-11-30 00:35:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-11-30 00:35:15 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/kinetics/fluid_reservoir": {
+    "criteria": {
+      "has_barrel": "2024-11-30 00:35:15 +0000"
+    },
+    "done": true
+  },
+  "create_dd:recipes/create_dd.base/crafting/kinetics/item_stockpile": {
+    "criteria": {
+      "has_barrel": "2024-11-30 00:35:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
