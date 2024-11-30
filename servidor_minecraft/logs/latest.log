@@ -92,3 +92,36 @@
 [30Nov2024 00:45:40.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mr_edius: Gave 5 [Torch] to mr_edius]
 [30Nov2024 00:46:41.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dann_3476 fell from a high place
 [30Nov2024 00:47:15.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mr_edius fell off scaffolding
+[30Nov2024 00:48:11.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dann_3476 has completed the challenge [I'm not sugar coating it]
+[30Nov2024 00:48:17.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dann_3476 was shot by Skeleton
+[30Nov2024 00:48:28.645] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 00:48:28.646] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Nov2024 00:49:59.429] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player LordFurius072 is 3c311ea8-ae60-4e11-a694-33a09cf948bc
+[30Nov2024 00:50:09.376] [Server thread/INFO] [owo/]: [Handshake] Sending channel query
+[30Nov2024 00:50:09.507] [Netty Epoll Server IO #2/INFO] [owo/]: [Handshake] Receiving client channels
+[30Nov2024 00:50:09.507] [Netty Epoll Server IO #2/INFO] [owo/]: [Handshake] Handshake completed successfully
+[30Nov2024 00:50:09.559] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: LordFurius072[/127.25.94.227:48553] logged in with entity id 81939 at (305.21765836725797, 62.0, -750.3000000119209)
+[30Nov2024 00:50:09.560] [Server thread/INFO] [owo/]: Sending server config values to client
+[30Nov2024 00:50:09.579] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to LordFurius072
+[30Nov2024 00:50:09.580] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to LordFurius072
+[30Nov2024 00:50:09.580] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to LordFurius072
+[30Nov2024 00:50:09.580] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to LordFurius072
+[30Nov2024 00:50:09.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to LordFurius072
+[30Nov2024 00:50:09.584] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to LordFurius072
+[30Nov2024 00:50:09.585] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to LordFurius072
+[30Nov2024 00:50:09.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LordFurius072 joined the game
+[30Nov2024 00:50:09.709] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 3c311ea8-ae60-4e11-a694-33a09cf948bc
+[30Nov2024 00:50:09.725] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: LordFurius072
+[30Nov2024 00:50:09.742] [Server thread/INFO] [Jade/]: Syncing config to LordFurius072 (3c311ea8-ae60-4e11-a694-33a09cf948bc)
+[30Nov2024 00:50:10.551] [Netty Epoll Server IO #2/INFO] [owo/]: Receiving client config
+[30Nov2024 00:50:10.844] [Server thread/INFO] [ping-wheel/]: Channel update: LordFurius072 -> default
+[30Nov2024 00:50:10.943] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Auto-Sync was disabled on the server.
+[30Nov2024 00:52:10.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dann_3476 was slain by Murmur
+[30Nov2024 00:53:28.721] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saving 0 events.
+[30Nov2024 00:53:28.722] [Server thread/INFO] [com.github.sculkhorde.core.SculkHorde/]: Saved 0 events. Took 0 Milliseconds.
+[30Nov2024 00:54:33.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dann_3476 drowned
+[30Nov2024 00:55:30.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mr_edius: Gave 2 [Glass Pane] to mr_edius]
+[30Nov2024 00:55:41.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mr_edius: Gave 1 [Glass Pane] to mr_edius]
+[30Nov2024 00:56:48.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mr_edius was shot by Summoned Skeleton
+[30Nov2024 00:57:29.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mr_edius: Gave 1 [Glass Pane] to mr_edius]
+[30Nov2024 00:57:44.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mr_edius: Gave 1 [Glassblower] to mr_edius]

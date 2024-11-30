@@ -12457,5 +12457,17 @@
     },
     "done": true
   },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "flint_knife": "2024-11-30 00:45:12 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2024-11-30 00:48:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
